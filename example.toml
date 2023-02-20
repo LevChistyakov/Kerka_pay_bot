@@ -1,0 +1,15 @@
+[bot]
+token = "past bot token here"
+
+[database]
+user = ""
+password = ""
+host = ""
+port = ""
+models = ["app.db.functions", "aerich.models"]
+
+[payments]
+token = "past telegram payment token here"
+
+[settings]
+owner_id = 12345678
